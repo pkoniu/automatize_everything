@@ -1,0 +1,2 @@
+45 1 * * Sun ./automatic_mongodump.sh
+45 2 * * Sun ./automatic_removal.sh
